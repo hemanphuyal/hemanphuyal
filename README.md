@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemanphuyal
+- 👋 Hi, I’m Heman Phuyal
 - 👀 I’m interested in learning to code
 <!--- 🌱 I’m currently learning ..-->
 <!--- 💞️ I’m looking to collaborate on ... -->
